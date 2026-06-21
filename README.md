@@ -1,4 +1,4 @@
-# 🧠 IQ Detector Using ML Algorithms
+#  IQ Detector Using ML Algorithms
 
 An interactive cognitive assessment web application that leverages **7 Machine Learning algorithms** to analyze your pattern recognition, shape sequence, and general knowledge skills in real-time.
 
